@@ -1,0 +1,6 @@
+
+{
+  "name": "Finanzas Familiares Python Edition",
+  "description": "Aplicación de gestión financiera familiar reescrita en Python con Streamlit y Gemini AI.",
+  "requestFramePermissions": []
+}
